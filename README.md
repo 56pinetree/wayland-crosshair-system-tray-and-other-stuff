@@ -29,7 +29,9 @@ Install on Fedora:
 
 ```bash
 sudo dnf install gtk3 gtk-layer-shell libappindicator-gtk3
+```
 
+```bash
 # For compiling
 sudo dnf install gtk3-devel gtk-layer-shell-devel libappindicator-gtk3-devel
 ```
