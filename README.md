@@ -28,6 +28,9 @@ sudo pacman -S gtk3 gtk-layer-shell (whatever libappindicator3 is on arch)
 Install on Fedora:
 
 ```bash
+sudo dnf install gtk3 gtk-layer-shell libappindicator-gtk3
+
+# For compiling
 sudo dnf install gtk3-devel gtk-layer-shell-devel libappindicator-gtk3-devel
 ```
 
