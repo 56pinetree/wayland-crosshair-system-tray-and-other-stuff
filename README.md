@@ -71,15 +71,15 @@ make
 ./crosshair x, x, x, 0.0, 0.6, 0.9
 ```
 
-Kill it with:
+Close it by clicking the icon in the system tray.
+
+Or kill it with:
 
 ```bash
 pkill crosshair
 ```
-Or click the entry on the system tray and quit.
-
-Setting the system tray icon: 
-The icon must be named "crosshair-icon.png" and placed alongside the binary for it to show.
+## Setting the system tray icon
+Make an icon named "crosshair-icon.png" and place it next to the binary
 
 ## Why not a Python/Electron/etc. script?
 
