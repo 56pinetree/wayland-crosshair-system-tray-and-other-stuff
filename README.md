@@ -38,16 +38,14 @@ sudo dnf install gtk3-devel gtk-layer-shell-devel libappindicator-gtk3-devel
 
 ## Build
 
+Clone repo with submodules:
 ```bash
-# Clone repo with submodules:
 git clone https://github.com/56pinetree/wayland-crosshair-system-tray-and-other-stuff.git --recursive
 ```
+If you've already cloned it:
 ```bash
-# If you've already cloned it:
 git submodule update --init --recursive
 ```
-```bash
-
 ```bash
 make
 ```
