@@ -1,3 +1,0 @@
-[submodule "src/tray"]
-	path = src/tray
-	url = https://github.com/nschmidtdev/c_tray.git
