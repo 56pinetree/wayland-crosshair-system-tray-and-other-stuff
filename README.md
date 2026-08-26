@@ -46,6 +46,7 @@ If you've already cloned it:
 ```bash
 git submodule update --init --recursive
 ```
+Build the program:
 ```bash
 make
 ```
